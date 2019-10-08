@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to somethingfishy
 
-You can use the [editor on GitHub](https://github.com/retr0gr4d3/retr0gr4d3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+:trollface:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Something fishy is going on here.
 
-### Markdown
+Whenever I commit to this repository, just know that I am doing [somethingfishy](https://github.com/retr0gr4d3/somethingfishy).
+
+### Using this repo for understanding Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -20,18 +22,44 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+  - also double space for sub-fishyness.
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and ~~strikethrough~~ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, I can reference the [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) page. But, that's cheating... _Right?_.
 
-### Jekyll Themes
+>Some shit about `GitHub Pages` was here. But I'm not using `GitHub Pages`.
+>_Rip_.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/retr0gr4d3/retr0gr4d3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Lists
 
-### Support or Contact
+#### Unordered List
+* some
+* something
+  * something fishy
+  * somethingfishy
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Ordered List
+1. some
+1. something
+1. hmm... is that fish?
+   1. something fishy
+   1. somethingfishy
+   
+#### Task List
+- [x] @retr0gr4d3, #lists, [A link](), **fattening your te-I mean, formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+  - [ ] this is somethingfishy for sure.
+
+### Tables
+
+something | fishy
+------------ | -------------
+somethingfishy | fishysomething
+This is correct | Ew, that's wrong.
+
