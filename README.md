@@ -63,3 +63,9 @@ something | fishy
 somethingfishy | fishysomething
 This is correct | Ew, that's wrong.
 
+### Some shit they don't tell you
+<details>
+ <summary>Yeah motherfucker. Spoilers.</summary>
+ Ooooooooh. Look at me, a fishy spoiler.
+ SOMETHINGFUCKINGFISHY.
+</details>
